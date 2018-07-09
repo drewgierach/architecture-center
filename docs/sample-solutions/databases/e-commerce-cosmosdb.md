@@ -1,11 +1,11 @@
 ---
-title: Scalable order processing with Cosmos DB
-description: Proven solution for building a highly scalable order processing pipeline using Cosmos DB on Azure.
+title: Scalable order processing with Azure Cosmos DB
+description: Proven solution for building a highly scalable order processing pipeline using Azure Cosmos DB.
 author: alexbuckgit
 ms.date: 07/29/2018
 ---
 
-# Scalable order processing with Cosmos DB on Azure
+# Scalable order processing with Azure Cosmos DB
 
 This sample solution is relevant to organizations that need a highly scalable and resilient architecture for online order processing. Potential applications include e-commerce and retail point-of-sale, order fulfillment, and inventory reservation and tracking. 
 
