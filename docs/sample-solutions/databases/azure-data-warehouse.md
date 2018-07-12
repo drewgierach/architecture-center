@@ -1,9 +1,10 @@
 ---
 title: Example scenario for automated enterprise BI
-description: 
+description: Use Azure to gain business insights from relational data stored on-premises.
 author: alexbuckgit
 ms.date: 07/09/2018
 ---
+
 # Example scenario for Automated Enterprise BI
 
 This example scenario is relevant to organizations that want to build a data pipeline that integrates business data from multiple data sources into a cloud-scale platform that enables advanced analysis and business intelligence capabilities. Potential applications include e-commerce, retail, healthcare, government, or other industry applications involving large volumes of data that can deliver high business value through analysis. 
@@ -81,9 +82,9 @@ To explore the cost of running this solution, all of the services are pre-config
 
 We have provided three sample cost profiles based on amount of traffic you expect to get:
 
-* [Small][small-pricing]: describe what a small implementation is.
-* [Medium][medium-pricing]: describe what a medium implementation is.
-* [Large][large-pricing]: describe what a large implementation is.
+* [Small][small-pricing]: this correlates to a small data pipeline with part-time availability.
+* [Medium][medium-pricing]: this correlates to a midsize data pipeline with full availabilty.
+* [Large][large-pricing]: this correlates to a large data pipeline with full availability.
 
 ## Related Resources
 
@@ -91,9 +92,9 @@ We have provided three sample cost profiles based on amount of traffic you expec
 * Guidance on [big data architectures](/azure/architecture/data-guide/big-data/) is available in the Azure Data Architecture Guide.
 
 <!-- links -->
-[small-pricing]: https://azure.com/e/
-[medium-pricing]: https://azure.com/e/
-[large-pricing]: https://azure.com/e/
+[small-pricing]: https://azure.com/e/9444b5ce08b7490a9b9f2207203e67f5
+[medium-pricing]: https://azure.com/e/b798fb70c53e4dd19fdeacea4db78276
+[large-pricing]: https://azure.com/e/f204c450314141a7ac803d72d2446a24
 [architecture]: ./images/architecture-automated-enterprise-bi.png
 [availability]: /azure/architecture/checklist/availability
 [resource-groups]: /azure/azure-resource-manager/resource-group-overview
