@@ -1,13 +1,13 @@
 ---
 title: Scalable order processing with Azure Cosmos DB
-description: Proven solution for building a highly scalable order processing pipeline using Azure Cosmos DB.
+description: Example scenario for building a highly scalable order processing pipeline using Azure Cosmos DB.
 author: alexbuckgit
 ms.date: 07/10/2018
 ---
 
 # Scalable order processing with Azure Cosmos DB
 
-This sample solution is relevant to organizations that need a highly scalable and resilient architecture for online order processing. Potential applications include e-commerce and retail point-of-sale, order fulfillment, and inventory reservation and tracking. 
+This example scenario is relevant to organizations that need a highly scalable and resilient architecture for online order processing. Potential applications include e-commerce and retail point-of-sale, order fulfillment, and inventory reservation and tracking. 
 
 This solution takes an event sourcing approach, using a functional programming model implemented via microservices. Each microservice is treated as an stream processor, and all business logic is implemented via microservices. This approach enables high availability and resiliency, geo-replication, and fast performance.
 
@@ -24,7 +24,7 @@ Consider this solution for the following use cases:
 
 ## Architecture
 
-![Sample solution architecture for a scalable order processing pipeline][architecture-diagram]
+![Example architecture for a scalable order processing pipeline][architecture-diagram]
 
 This architecture details key components of an order processing pipeline. The data flows through the solution as follows:
 
@@ -69,7 +69,7 @@ For general guidance on designing secure solutions, see the [Cloud Security Desi
 
 ### Resiliency
 
-For general guidance on designing resilient solutions, see the [Cloud Resiliency Design Patterns][resiliency] available in the Azure Architecture Center.
+The event sourcing architecture and associated technologies in this example scenario make this solution highly resilient when failures occur. For general guidance on designing resilient solutions, see the [Cloud Resiliency Design Patterns][resiliency] available in the Azure Architecture Center.
 
 ## Pricing
 
@@ -85,7 +85,7 @@ We have provided three sample cost profiles based on amount of activity you expe
 
 ## Related Resources
 
-This sample solution is based on a more extensive version of this architecture built by [Jet.com](https://jet.com) for its end-to-end order processing pipeline. For more information, see the [jet.com technical customer profile][source-document] and [jet.com's presentation at Build 2018][source-presentation]. 
+This example scenario is based on a more extensive version of this architecture built by [Jet.com](https://jet.com) for its end-to-end order processing pipeline. For more information, see the [jet.com technical customer profile][source-document] and [jet.com's presentation at Build 2018][source-presentation]. 
 
 Other related resources include:
 * _[Designing Data-Intensive Applications](https://dataintensive.net/)_ by Martin Kleppmann (O'Reilly Media, 2017).
