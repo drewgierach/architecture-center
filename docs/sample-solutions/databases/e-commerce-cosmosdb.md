@@ -2,7 +2,7 @@
 title: Scalable order processing with Azure Cosmos DB
 description: Proven solution for building a highly scalable order processing pipeline using Azure Cosmos DB.
 author: alexbuckgit
-ms.date: 07/29/2018
+ms.date: 07/10/2018
 ---
 
 # Scalable order processing with Azure Cosmos DB
@@ -15,7 +15,7 @@ Using managed Azure services such as Cosmos DB and HDInsight can help reduce cos
 
 ## Potential use cases
 
-You should consider this solution for the following use cases:
+Consider this solution for the following use cases:
 
 * E-commerce or retail point-of-sale front-end systems.
 * Inventory management systems.
@@ -98,9 +98,9 @@ Other related resources include:
 [product-category]: https://azure.microsoft.com/product-categories/databases/
 [source-document]: https://customers.microsoft.com/en-us/story/jet-com-powers-innovative-e-commerce-engine-on-azure-in-less-than-12-months
 [source-presentation]: https://channel9.msdn.com/events/Build/2018/BRK3602
-[small-pricing]: https://azure.com/e/131afa3d13df4e76ad1448de1437e286
-[medium-pricing]: https://azure.com/e/3d43949ffbb945a88cc0a126dc3a0e6e
-[large-pricing]: https://azure.com/e/1f1e7bf2a6ad4f7799581211f4369b9b
+[small-pricing]: https://azure.com/e/3d43949ffbb945a88cc0a126dc3a0e6e
+[medium-pricing]: https://azure.com/e/1f1e7bf2a6ad4f7799581211f4369b9b
+[large-pricing]: https://azure.com/e/75207172ece94cf6b5fb354a2252b333
 [architecture-diagram]: ./images/architecture-diagram-cosmos-db.png
 [docs-cosmos-db]: /azure/cosmos-db
 [docs-cosmos-db-change-feed]: /azure/cosmos-db/change-feed
